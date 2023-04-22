@@ -66,6 +66,7 @@
         padding: 0;
         margin: 0;
         font-family: "Sofia Sans Condensed", sans-serif;
+        overflow-x: hidden;
     }
 
     a {

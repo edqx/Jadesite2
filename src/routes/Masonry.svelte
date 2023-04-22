@@ -44,7 +44,6 @@
         for (let i = 0, j = 0; i < initialChildren.length; i++, j++, j = j % numColumns) {
             columns[j].appendChild(initialChildren[i].cloneNode(true));
         }
-        let columnHeights = columns.map(column => column.getBoundingClientRect().height);
         for (let i = 0; i < columns.length; i++) {
             let flag = true;
             while (flag) {

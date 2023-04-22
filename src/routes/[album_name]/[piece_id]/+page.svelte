@@ -31,14 +31,14 @@
         if (!browser)
             return;
 
-        document.body.style.overflow = "hidden";
+        document.body.style.overflowY = "hidden";
     });
 
     onDestroy(() => {
         if (!browser)
             return;
 
-        document.body.style.overflow = "auto";
+        document.body.style.overflowY = "auto";
     });
 
     function backToAlbum() {
