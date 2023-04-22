@@ -6,6 +6,18 @@ declare global {
 		// interface Locals {}
 		// interface PageData {}
 		// interface Platform {}
+
+		interface Artwork {
+			src: string;
+			description: string;
+		}
+
+		interface Album {
+			name: string;
+			description: string;
+			cover_image_src: string;
+			pieces: Artwork[];
+		}
 	}
 }
 

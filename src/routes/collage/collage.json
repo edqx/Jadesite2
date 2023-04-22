@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Edith",
+        "description": "Artwork related to my work for a game I am working on called Edith",
+        "cover_image_src": "/edithdemoexample.gif",
+        "pieces": [
+            {
+                "src": "/camina.png",
+                "description": "Despite the artwork being quite dated at this point in time, I'd still like to show this one as it's evidence of how I used to (and largely still do) refine my artwork, by drawing over it a lot until I'm happy with it. It's an ineffecient process that I'm trying to stop, but for now it helps me get my ideas across."
+            },
+            {
+                "src": "/cluoemotions.png",
+                "description": "The first ever concept drawings done for Edith, an emotion sheet showing a gameplay mechanic dubbed \"patience\". This was the first of many emotion charts I ended up drawing for Edith."
+            },
+            {
+                "src": "/cluolean.png",
+                "description": "One of the more dynamic poses I referenced for Edith's deuteragonist, 'Cluo', including two slighly different designs, concepted to show small differences in her appearence that might be made depending on what difficulty the game is set at."
+            },
+            {
+                "src": "/cluopipleine.png",
+                "description": "A page showing some progression of how I choose to draw Edith's concept art, along with some processes of how I take an older design and modernise them with my updated drawing style."
+            },
+            {
+                "src": "/edithdemoexample.gif",
+                "description": ""
+            },
+            {
+                "src": "/iris.png",
+                "description": "The difference in only a few months work in designing one of Edith's bosses, \"Iris\". After a new idea for her design along with some new skills, this is probably one of my best modernisations of older artwork."
+            },
+            {
+                "src": "/lotus.png",
+                "description": ""
+            },
+            {
+                "src": "/macula.png",
+                "description": "Some \"finalised\" artwork of Edith's protagonist, \"Macula\", when considering letting the player pick their gender. It was eventually decided, however, that the left design would be used."
+            },
+            {
+                "src": "/gameover.png",
+                "description": "Unfinished concept art for the pose taken by Cluo during a proposed \"Game Over\" screen. The intention would be that her hand be hovering over an analogue clock, though I'm still yet to finish this."
+            },
+            {
+                "src": "/floorplans.png",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "OMORI Fanart",
+        "description": "Fan artwork for the game OMORI",
+        "cover_image_src": "/perfectheart.png",
+        "pieces": [
+            {
+                "src": "/aubrey.png",
+                "description": ""
+            },
+            {
+                "src": "/aubreyredesign.png",
+                "description": ""
+            },
+            {
+                "src": "/perfectheart.png",
+                "description": "This was mainly a colour test done as part of a larger piece of artwork that I had planned which isn't shown here."
+            }
+        ]
+    },
+    {
+        "name": "Celeste Fanart",
+        "description": "Fan artwork for the game OMORI",
+        "cover_image_src": "/celeste1.png",
+        "pieces": [
+            {
+                "src": "/celeste1.png",
+                "description": "The 1st piece of artwork in a sequence of improvement. I wasn't too happy with how my idea for this fanart turned out, so I tried again."
+            },
+            {
+                "src": "/celeste2.png",
+                "description": "The 2nd piece of artwork in a sequence of improvement. I tried drawing on a larger scale and adding some more framing and using a different brush to colour, however I didn't like how small the scope of the idea had turned out, so I tried again."
+            },
+            {
+                "src": "/celeste3.png",
+                "description": "The 3rd piece of artwork in a sequence of improvement. This time I completely redid the layout of the drawing to try and give it some nicer visuals, this was done in around 5 hours as part of an art competition."
+            },
+            {
+                "src": "/celeste4.png",
+                "description": "The 4th piece of artwork in a sequence of improvement. After the art competition, I went back and refined the piece I had made, making it larger and tweaking some layers. All of these drawings were done very close to one another in time, I was suprirsed myself at how much improvemnet I could make."
+            }
+        ]
+    },
+    {
+        "name": "Lapis Lazuli Fanart",
+        "description": "Fan artwork for the character Lapis Lazuli from the television show Steven Universe",
+        "cover_image_src": "/lapisall.png",
+        "pieces": [
+            {
+                "src": "/lapis1.png",
+                "description": "The was the first of 3 small fanarts I did as a small practise project. I'm really happy with how this one turned out with the posing of the body and hair. The shading could be much better, however that wasn't my main focus at the time."
+            },
+            {
+                "src": "/lapis2.png",
+                "description": "I really struggled with getting the hair to look natural in this pose, as trying to draw the hair from a front angle was proving difficult to make look natural. Adding some wind to the hair however helped ease the process."
+            },
+            {
+                "src": "/lapis3.png",
+                "description": "Drawing characters from behind is something I'm trying to work on getting better at, and I quite like how this piece turned out. It's also the first piece that I downloaded a custom brush for, in the form of the rain seen coming from the umbrella."
+            },
+            {
+                "src": "/lapisall.png",
+                "description": "All 3 pieces of fanart done for this small practise project together, I'm happy with the way they turned out even if they are quite flawed. It was nice testing out different and new techniques on each one."
+            }
+        ]
+    },
+    {
+        "name": "Paraffin Fanart",
+        "description": "Fan artwork for the character Paraffin from the Split mod for the game Terraria",
+        "cover_image_src": "/paraffin.png",
+        "pieces": [
+            {
+                "src": "/paraffin.png",
+                "description": "On the left of this image is (for all intents and purposes) the first ever drawing I did on my graphics tablet, which eventually lead to everything else you see on this page and much, much more. To the right is an improved version, though I'm planning on doing another improvement piece."
+            }
+        ]
+    }
+]
