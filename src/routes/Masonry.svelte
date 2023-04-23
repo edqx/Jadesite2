@@ -1,4 +1,6 @@
 <script lang="ts">
+    import { onMount } from "svelte";
+
     export let defaultColumns: number;
     export let minColumnSize: number;
     export let gap: number;
@@ -81,6 +83,10 @@
             }
         }
     }
+
+    onMount(() => {
+        resize();
+    });
 </script>
 
 <svelte:window on:resize={resize}></svelte:window>
