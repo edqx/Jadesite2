@@ -1,7 +1,7 @@
 [
     {
         "name": "Edith",
-        "description": "Artwork related to my work for a game I am working on called Edith",
+        "description": "Artwork related to a game I am working on called Edith.",
         "cover_image_src": "/edithdemoexample.gif",
         "pieces": [
             {
@@ -47,13 +47,17 @@
         ]
     },
     {
-        "name": "OMORI Fanart",
-        "description": "Fan artwork for the game OMORI",
+        "name": "Fanart",
+        "description": "Multimedia fanart.",
         "cover_image_src": "/perfectheart.png",
         "pieces": [
             {
                 "src": "/aubrey.png",
                 "description": ""
+            },
+            {
+                "src": "/paraffin.png",
+                "description": "On the left of this image is (for all intents and purposes) the first ever drawing I did on my graphics tablet, which eventually lead to everything else you see on this page and much, much more. To the right is an improved version, though I'm planning on doing another improvement piece."
             },
             {
                 "src": "/aubreyredesign.png",
@@ -62,14 +66,7 @@
             {
                 "src": "/perfectheart.png",
                 "description": "This was mainly a colour test done as part of a larger piece of artwork that I had planned which isn't shown here."
-            }
-        ]
-    },
-    {
-        "name": "Celeste Fanart",
-        "description": "Fan artwork for the game OMORI",
-        "cover_image_src": "/celeste1.png",
-        "pieces": [
+            },
             {
                 "src": "/celeste1.png",
                 "description": "The 1st piece of artwork in a sequence of improvement. I wasn't too happy with how my idea for this fanart turned out, so I tried again."
@@ -85,14 +82,7 @@
             {
                 "src": "/celeste4.png",
                 "description": "The 4th piece of artwork in a sequence of improvement. After the art competition, I went back and refined the piece I had made, making it larger and tweaking some layers. All of these drawings were done very close to one another in time, I was suprirsed myself at how much improvemnet I could make."
-            }
-        ]
-    },
-    {
-        "name": "Lapis Lazuli Fanart",
-        "description": "Fan artwork for the character Lapis Lazuli from the television show Steven Universe",
-        "cover_image_src": "/lapisall.png",
-        "pieces": [
+            },
             {
                 "src": "/lapis1.png",
                 "description": "The was the first of 3 small fanarts I did as a small practise project. I'm really happy with how this one turned out with the posing of the body and hair. The shading could be much better, however that wasn't my main focus at the time."
@@ -108,17 +98,6 @@
             {
                 "src": "/lapisall.png",
                 "description": "All 3 pieces of fanart done for this small practise project together, I'm happy with the way they turned out even if they are quite flawed. It was nice testing out different and new techniques on each one."
-            }
-        ]
-    },
-    {
-        "name": "Paraffin Fanart",
-        "description": "Fan artwork for the character Paraffin from the Split mod for the game Terraria",
-        "cover_image_src": "/paraffin.png",
-        "pieces": [
-            {
-                "src": "/paraffin.png",
-                "description": "On the left of this image is (for all intents and purposes) the first ever drawing I did on my graphics tablet, which eventually lead to everything else you see on this page and much, much more. To the right is an improved version, though I'm planning on doing another improvement piece."
             }
         ]
     }
