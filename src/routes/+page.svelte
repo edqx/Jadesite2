@@ -10,7 +10,7 @@
 
 <div class="w-screen h-screen flex items-center justify-center">
     <div class="flex items-center justify-center">
-        <img alt="cover art" class="w-full md:h-[520px]" src="/edith-cover.png">
+        <img alt="cover art" class="w-full md:h-[720px]" src="/edith-cover.png">
     </div>
 </div>
 <Masonry gap={4} defaultColumns={5} minColumnSize={320}>
