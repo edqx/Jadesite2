@@ -10,8 +10,7 @@
 
 <div class="w-screen h-screen flex items-center justify-center">
     <div class="flex items-center justify-center">
-        <img alt="cover art" class="w-[180px] md:w-auto" src="https://placekitten.com/{360}/{480}">
-        <img alt="cover art" class="w-[180px] md:w-auto" src="https://placekitten.com/{400}/{480}">
+        <img alt="cover art" class="w-full md:h-[520px]" src="/edith-cover.png">
     </div>
 </div>
 <Masonry gap={4} defaultColumns={5} minColumnSize={320}>
